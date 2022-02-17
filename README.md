@@ -1,5 +1,6 @@
 # Hackintosh
 Hardware Specific Monterey EFI !!! OpenCore only !!!
+<img src="https://cdn.discordapp.com/attachments/943257063847526410/943543845587660810/unknown.png">
 
 # Hardware Specifications
 ```
