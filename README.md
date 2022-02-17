@@ -1,5 +1,5 @@
 # Hackintosh
-Hardware Specific Monterey EFI
+Hardware Specific Monterey EFI !!! OpenCore only !!!
 
 # Hardware Specifications
 ```
