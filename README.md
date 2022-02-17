@@ -14,7 +14,9 @@ Intel UHD 630
 Asus pce-n15 (Replaced by usb tethering)
 ```
 # Glitches and not working
+```
 HDMI Mobo Output (No Signal)
 Asus pce-n15 wifi card (Had to be replaced by usb tethering)
 DisplayPort (Weird glitches) -- Fixed by reconnecting
 --More updates comming soon
+```
