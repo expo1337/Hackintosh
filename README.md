@@ -1,5 +1,5 @@
-# Hackintosh
-Hardware Specific Monterey EFI !!! OpenCore only !!!
+# OpenCore Hackintosh - Monterey
+Hardware Specific Monterey EFI
 
 <img src="https://cdn.discordapp.com/attachments/834520706410217522/944343574558945350/template.png">
 
