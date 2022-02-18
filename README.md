@@ -27,7 +27,6 @@ SMCProcessor => Required for Intel
 SMCSuperIO => Required for Intel
 VirtualSMC => Required for Intel
 WhateverGreen => Required for framebuffer patch
-# Glitches and not working
 ```
 # Giltches
 ```
