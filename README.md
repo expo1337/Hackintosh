@@ -17,10 +17,22 @@ Intel UHD 630
 550gb HDD (Hackintosh HDD)
 Asus pce-n15 (Replaced by usb tethering)
 ```
+# Kernel Extensions In Use
+```
+AppleALC => Sound  Kext
+HoRNDIS => Enable USB Tethering
+IntelMausi => Enable Ethernet
+Lilu => Required by others
+SMCProcessor => Required for Intel
+SMCSuperIO => Required for Intel
+VirtualSMC => Required for Intel
+WhateverGreen => Required for framebuffer patch
 # Glitches and not working
+```
+# Giltches
 ```
 HDMI Mobo Output (No Signal)
 Asus pce-n15 wifi card (Had to be replaced by usb tethering)
-DisplayPort (Weird glitches) -- Fixed by reconnecting
---More updates comming soon
+DisplayPort (Weird glitches) -Fixed by reconnecting
+-More updates comming soon
 ```
